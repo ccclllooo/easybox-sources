@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "hongguoduanju",
+      "name": "红果果[短]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/ccclllooo/easybox-sources/main/hongguoduanju.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    }
+  ]
+}
